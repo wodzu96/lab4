@@ -5,5 +5,5 @@ Napisz program, który zamieni liczbę z przedziału od zera do miliona na pols
 ##Zad 2
 Wiemy, że dla każdej liczby naturalnej `n` możemy znaleźć taką liczbę `k`, gdzie iloczyn `n * k` w zapisie dziesiętnym składa się wyłącznie z zer i jedynek. Napisz program, który dla zadanej liczby `n` znajdzie `k` spełniające ten warunek.
 
-#Z#adanie końcowe
+#Zadanie końcowe
 Połącz oba programy tak, aby jako argument wiersza poleceń przekazywać do niego `n`, a podsumowanie poszukiwań wyświetlić użytkownikowi w postaci polskich liczebników.
